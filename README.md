@@ -70,7 +70,7 @@ We built a mini-compiler pipeline that includes:
    - python --version
 
 2. Run the application with:
-   - python main.py  **Ensuring that that all the .py files are within the primary folder and then open the integrated terminal to run it.**
+   - python main.py  **(Ensure that that all the .py files are within the primary folder and then open the integrated terminal to run it.)**
 
 **You can quickly test by just running the scripts from the terminal or IDE. You do not need GUI or any complex setups.**
 
