@@ -70,10 +70,9 @@ We built a mini-compiler pipeline that includes:
    - python --version
 
 2. Run the application with:
+   - python simulation_runner.py
 
-  - python simulation_runner.py
-
-- **You can quickly test by just running the scripts from the terminal or IDE. You do not need GUI or any complex setups.**
+   - **You can quickly test by just running the scripts from the terminal or IDE. You do not need GUI or any complex setups.**
 
 ## License
 This project is licensed under the MIT License. 
